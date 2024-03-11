@@ -25,3 +25,4 @@ risultato = numero1 + numero2 ** 2
 print(risultato)
 # esercizio 8
 numero1 -= numero1 - 1
+print(numero1)
